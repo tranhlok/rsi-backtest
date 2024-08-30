@@ -1,0 +1,60 @@
+========================================
+XBI Results
+========================================
+RSI Strategy Performance:
+-------------------------
+Total Profit: $3.70 (5.37%)
+Average Profit (True Positive): $6.75 (9.81%)
+Average Loss (False Positive): $-12.19 (-17.72%)
+True Positive Ratio: 0.65
+Expected Return: $0.16 (0.23%)
+
+Buy-and-Hold Strategy Performance
+-------------------------
+Total Profit: $49.67 (99.16%)
+
+========================================
+SPX Results
+========================================
+RSI Strategy Performance:
+-------------------------
+Total Profit: $2058.72 (109.64%)
+Average Profit (True Positive): $135.41 (7.21%)
+Average Loss (False Positive): $-230.05 (-12.25%)
+True Positive Ratio: 0.85
+Expected Return: $79.18 (4.22%)
+
+Buy-and-Hold Strategy Performance
+-------------------------
+Total Profit: $3568.73 (179.60%)
+
+========================================
+NBI Results
+========================================
+RSI Strategy Performance:
+-------------------------
+Total Profit: $1201.22 (44.95%)
+Average Profit (True Positive): $182.46 (6.83%)
+Average Loss (False Positive): $-214.76 (-8.04%)
+True Positive Ratio: 0.67
+Expected Return: $50.05 (1.87%)
+
+Buy-and-Hold Strategy Performance
+-------------------------
+Total Profit: $2105.05 (77.68%)
+
+========================================
+M1WO0HC Results
+========================================
+RSI Strategy Performance:
+-------------------------
+Total Profit: $187.83 (80.56%)
+Average Profit (True Positive): $11.28 (4.84%)
+Average Loss (False Positive): $-10.07 (-4.32%)
+True Positive Ratio: 0.79
+Expected Return: $6.71 (2.88%)
+
+Buy-and-Hold Strategy Performance
+-------------------------
+Total Profit: $319.57 (133.04%)
+
